@@ -48,3 +48,5 @@ accessible method net/minecraft/client/gui/screens/inventory/CreativeModeInvento
 accessible field net/minecraft/client/gui/screens/Screen font Lnet/minecraft/client/gui/Font;
 
 accessible method net/minecraft/client/KeyboardHandler charTyped (JII)V
+
+accessible field net/minecraft/client/gui/components/MultilineTextField selectCursor I

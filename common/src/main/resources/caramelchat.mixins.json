@@ -16,6 +16,11 @@
         "MixinSignEditScreen",
         "emi.MixinPluginEmiPort",
         "emi.MixinPluginEmiSearchWidget",
-        "xaeromap.MixinPluginXaeroMapWayPoint"
+        "xaeromap.MixinPluginXaeroMapWayPoint",
+        "ftb.TextBoxAccessor",
+        "ftb.MultilineTextBoxAccessor",
+        "ftb.MixinMultilineTextField",
+        "ftb.MixinMultilineTextBox",
+        "ftb.MixinTextBox"
     ]
 }
